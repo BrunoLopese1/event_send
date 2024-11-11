@@ -26,6 +26,5 @@ dist-ssr
 # Arquivos de variáveis de ambiente
 .env
 .env.* 
-event_send\flask_api\config.json
 
 
